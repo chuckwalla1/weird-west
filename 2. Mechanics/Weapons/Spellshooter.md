@@ -1,4 +1,3 @@
-![[z_Assets/spellshooter.jpg]]
 ![](../../z_Assets/spellshooter.jpg)
 
 **Type:** Simple ranged weapon
