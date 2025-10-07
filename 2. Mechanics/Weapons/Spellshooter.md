@@ -1,5 +1,5 @@
 ![[z_Assets/spellshooter.jpg]]
-![](z_Assets/spellshooter.jpg)
+![](../../z_Assets/spellshooter.jpg)
 **Type:** Simple ranged weapon
 **Cost:** 25 gp
 **Weight:** 1 lb
